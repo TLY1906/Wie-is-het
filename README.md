@@ -78,10 +78,10 @@ Toon een lijst van alle personages, elk met hun bijbehorende afbeelding.
 ### 🟧 Opdracht 6 — Toon een willekeurig personage
 Kies willekeurig één personage uit de lijst en toon zijn/haar naam en afbeelding.
 
-### 🟦 Opdracht 6A — Formulier → `$_GET` / `$_POST`
+### 🟦 Opdracht 7 — Formulier → `$_GET` / `$_POST`
 Leren hoe formulierdata als associatieve array binnenkomt.
 
-### ⬛️ Opdracht 7 — Bouw het "Wie is het?" spel
+### ⬛️ Opdracht 8 — Bouw het "Wie is het?" spel
 Bouw een interactief spel met formulieren.
 
 ---
