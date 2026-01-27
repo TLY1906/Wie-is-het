@@ -89,3 +89,18 @@ Bouw een interactief spel met formulieren.
 ## ✔️ Resultaat
 
 Na afloop kun je arrays uitlezen, filteren en formulierdata verwerken.
+
+
+## Disclaimer
+
+This project is an educational assignment created for learning purposes only.
+
+"Guess Who?" and all related character images are trademarks and copyrighted
+material of Hasbro, Inc.
+
+This project is:
+- non-commercial
+- not affiliated with Hasbro
+- not intended for redistribution of copyrighted assets
+
+All images are used solely for educational demonstration purposes.
