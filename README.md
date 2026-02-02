@@ -47,7 +47,7 @@ $characterDataset = load_data();
 
 ---
 
-## 🔑 Belangrijk concept (voor opdracht 6A en 7)
+## 🔑 Belangrijk concept (voor opdracht 7 en 8)
 
 Een HTML formulier wordt in PHP een **associatieve array**.
 
