@@ -1,6 +1,6 @@
 <?php
 /**********************************************************
- * OPDRACHT 6A — Formulier → $_GET / $_POST (associatieve arrays)
+ * OPDRACHT 7 — Formulier → $_GET / $_POST (associatieve arrays)
  *
  * LEERDOEL:
  * - Begrijpen dat zowel $_GET als $_POST associatieve arrays zijn.
